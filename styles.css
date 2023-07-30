@@ -1,7 +1,6 @@
 .holder{
-   
     display: flex;
-    flex-direction: row;
+    flex-direction:fullscreen;
     width: 100%;
     justify-content: center;   
     align-items: center;
